@@ -1,0 +1,29 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 201402L
+QMAKE_CXX.QMAKE_CLANG_MAJOR_VERSION = 9
+QMAKE_CXX.QMAKE_CLANG_MINOR_VERSION = 0
+QMAKE_CXX.QMAKE_CLANG_PATCH_VERSION = 8
+QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 4
+QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 2
+QMAKE_CXX.QMAKE_GCC_PATCH_VERSION = 1
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_CLANG_MAJOR_VERSION \
+    QMAKE_CLANG_MINOR_VERSION \
+    QMAKE_CLANG_PATCH_VERSION \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION
+QMAKE_CXX.INCDIRS = \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/sysroot/usr/include/aarch64-linux-android \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/sources/cxx-stl/llvm-libc++/include \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/sources/android/support/include \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/sources/cxx-stl/llvm-libc++abi/include \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/9.0.8/include \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/sysroot/usr/include
+QMAKE_CXX.LIBDIRS = \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/9.0.8 \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/9.0.8/lib/linux/aarch64 \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64/lib/gcc/aarch64-linux-android/4.9.x \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64/aarch64-linux-android/lib64 \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64/aarch64-linux-android/lib \
+    C:/Users/pc/AppData/Local/Android/Sdk/ndk/21.3.6528147/platforms/android-21/arch-arm64/usr/lib
