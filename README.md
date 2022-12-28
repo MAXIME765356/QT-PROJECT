@@ -5,7 +5,8 @@ Sqlite Desktop App With QT For Employees Management done with QT 5.12.11 and QT 
 
 --MainMenu
 
-![MainMenu](https://user-images.githubusercontent.com/117815821/209855824-7234b5be-72ce-4325-9d12-eb3340d16de3.png)
+
+![Capture d’écran (110)](https://user-images.githubusercontent.com/117815821/209859778-2ffb3afc-65f9-40c3-80c5-3a3b228ea236.png)
 
 
 
